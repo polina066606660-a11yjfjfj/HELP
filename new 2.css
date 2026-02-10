@@ -1,0 +1,150 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:300,400,700);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic);html, body {
+  font-family: 'Open Sans', sans-serif;
+  height: 100%;
+  margin: 0;
+  background-color: ?;
+}.box {
+    width: 80%;
+    position: absolute;
+    margin-top: -450px;
+  overflow: auto;
+}
+#main {
+ width: 100%;
+ padding: 0;
+}
+.content-asset p {
+ margin: 0 auto;
+}
+.breadcrumb {
+ display: none;
+}
+.margin-top-10 {
+ padding-top: 10px;
+}
+.margin-bot-10 {
+ padding-bottom: 10px;
+}#flat h1 {
+ font-family: 'Oswald', sans-serif;
+ font-size: 24px;
+ font-weight: 400;
+ text-transform: uppercase;
+ color: black;
+ padding: 0;
+ margin: 0;
+}#flat h2 {
+ font-family: 'Oswald', sans-serif;
+ font-size: 70px;
+ letter-spacing: 10px;
+ text-align: center;
+ color: white;
+ font-weight: 400;
+ text-transform: uppercase;
+ z-index: 10;
+ opacity: .9;
+}
+#flat h3 {
+ font-family: 'Oswald', sans-serif;
+ font-size: 14px;
+ line-height: 0;
+ font-weight: 400;
+ letter-spacing: 8px;
+ text-transform: uppercase;
+ color: black;
+}.first-character {
+ font-weight: 400;
+ float: left;
+ font-size: 84px;
+ line-height: 64px;
+ padding-top: 4px;
+ padding-right: 8px;
+ padding-left: 3px;
+ font-family: 'Source Sans Pro', sans-serif;
+}
+.HELP {
+	color: pink;
+	font-family: 'Oswald', sans-serif;
+}
+.cat {
+	color: orange;
+	font-family: 'Oswald', sans-serif;
+}	
+.nоте {
+	color: green;
+	font-family: 'Oswald', sans-serif;
+}		
+#flat .title {
+ background: white;
+ padding: 60px;
+ margin: 0 auto;
+ text-align: center;
+}
+
+#flat .title h1 {
+ font-size: 35px;
+ letter-spacing: 8px;
+}
+#flat .block {
+ background: white;
+ padding: 6px;
+ width: 820px;
+ margin: 0 auto;
+ text-align: justify;
+}
+
+#flat .block-gray {
+ background: #f2f2f2;
+ padding: 6px;
+}
+#flat .section-overlay-mask {
+ position: absolute;
+ top: 0;
+ left: 0;
+ width: 100%;
+ height: 100%;
+ background-color: black;
+ opacity: 0.70;
+}
+#flat .parallax-one {
+ padding-top: 200px;
+ padding-bottom: 200px;
+ overflow: hidden;
+ position: relative;
+ width: 100%;
+ background-image: url("https://raw.githubusercontent.com/polina066606660-a11yjfjfj/HELP/refs/heads/main/i%20(2).webp");
+ background-attachment: fixed;
+ background-size: cover;
+ -moz-background-size: cover;
+ -webkit-background-size: cover;
+ background-repeat: no-repeat;
+ background-position: top center;
+}
+#flat .parallax-two {
+ padding-top: 200px;
+ padding-bottom: 200px;
+ overflow: hidden;
+ position: relative;
+ width: 100%;
+ background-image: url("https://raw.githubusercontent.com/polina066606660-a11yjfjfj/HELP/refs/heads/main/i%20(1).webp");
+ background-attachment: fixed;
+ background-size: cover;
+ -moz-background-size: cover;
+ -webkit-background-size: cover;
+ background-repeat: no-repeat;
+ background-position: top center;
+}
+#flat .parallax-three {
+ padding-top: 200px;
+ padding-bottom: 200px;
+ overflow: hidden;
+ position: relative;
+ width: 100%;
+ background-image: url("https://raw.githubusercontent.com/polina066606660-a11yjfjfj/HELP/refs/heads/main/i.webp");
+ background-attachment: fixed;
+ background-size: cover;
+ -moz-background-size: cover;
+ -webkit-background-size: cover;
+ background-repeat: no-repeat;
+ background-position: top center;
+}
